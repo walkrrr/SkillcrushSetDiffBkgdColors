@@ -73,6 +73,7 @@ footer {
 
   #column-3 {
     background-color: #FF934F;
+    width: 100%;
   }
 
   footer {
@@ -98,10 +99,15 @@ footer {
 
   #column-3 {
     background-color: ;
+    width: 33.3%;
   }
 
   footer {
     background-color: ;
+
+    .col-3 {
+      width: 33.3%;
+    }
   }
    
 }
